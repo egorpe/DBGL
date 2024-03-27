@@ -1,0 +1,11 @@
+.idea
+*.iml
+settings.conf
+out
+db
+captures
+dosroot
+export
+profiles
+templates
+xsl
